@@ -1,1 +1,2 @@
 machine_learning/deep_learning/CNN_test/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
+deep_learning/CNN_test/data/cifar-10-python.tar.gz filter=lfs diff=lfs merge=lfs -text
